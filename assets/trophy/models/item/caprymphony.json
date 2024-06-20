@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "trophy:item/caprymphony"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "tooting": 1
+      },
+      "model": "trophy:item/caprymphony_tooting"
+    }
+  ]
+}
