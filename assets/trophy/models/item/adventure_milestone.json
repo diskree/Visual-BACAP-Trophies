@@ -1,6 +1,6 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "trophy:item/adventure_milestone"
-    }
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "trophy:item/adventure_milestone"
+  }
 }
