@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "trophy:item/totally_not_an_afk_fisher"
+  }
+}

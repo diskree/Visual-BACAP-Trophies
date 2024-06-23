@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "trophy:item/good_luck_getting_this_one"
+  }
+}

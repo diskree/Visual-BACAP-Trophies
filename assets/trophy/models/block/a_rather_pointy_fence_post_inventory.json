@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_inventory",
+  "textures": {
+    "texture": "trophy:block/a_rather_pointy_fence_post_planks"
+  }
+}

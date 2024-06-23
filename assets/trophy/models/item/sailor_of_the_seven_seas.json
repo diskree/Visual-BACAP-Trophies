@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "trophy:item/sailor_of_the_seven_seas"
+  }
+}

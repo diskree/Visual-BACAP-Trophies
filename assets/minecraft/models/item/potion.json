@@ -1,26 +1,27 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/paper"
+    "layer0": "item/potion_overlay",
+    "layer1": "item/potion"
   },
   "overrides": [
     {
       "predicate": {
         "custom_model_data": 131
       },
-      "model": "trophy:item/potion_master"
+      "model": "trophy:item/your_legs_must_be_tired"
     },
     {
       "predicate": {
         "custom_model_data": 132
       },
-      "model": "trophy:item/slabs_for_days"
+      "model": "trophy:item/mad_scientist"
     },
     {
       "predicate": {
         "custom_model_data": 133
       },
-      "model": "trophy:item/unending_hell"
+      "model": "trophy:item/silent_but_deadly"
     }
   ]
 }

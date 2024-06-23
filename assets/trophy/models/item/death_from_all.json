@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "trophy:item/death_from_all",
+    "layer1": "trophy:item/death_from_all"
+  }
+}

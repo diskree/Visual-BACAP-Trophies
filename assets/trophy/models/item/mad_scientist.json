@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "trophy:item/mad_scientist",
+    "layer1": "trophy:item/mad_scientist"
+  }
+}

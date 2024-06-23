@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "trophy:item/silent_but_deadly",
+    "layer1": "trophy:item/silent_but_deadly"
+  }
+}

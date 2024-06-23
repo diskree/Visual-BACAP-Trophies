@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "trophy:item/dragon_vs_wither_the_pre_sequel"
+  }
+}
